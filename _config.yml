@@ -1,10 +1,10 @@
 title:"大概是很难了"
-author: GitHub User
-email: 645675773@qq.com
-description: > 2333
+author: GitHub User # set to false to remove excerpts on the homepage
+email: 645675773@qq.com # set to false to remove excerpts on the homepage
+description:  2333 # set to false to remove excerpts on the homepage
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: minima # set to false to remove excerpts on the homepage
